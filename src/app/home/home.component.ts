@@ -12,7 +12,7 @@ Users:any
 
 constructor(private http: HttpClient) {}
   ngOnInit(): void {
-    this.getUser();
+    //this.getUser();
   }
 
 getUser(){
